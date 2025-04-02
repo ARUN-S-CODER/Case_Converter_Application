@@ -49,7 +49,9 @@ This project relies on the following Python packages:
 4. Get the converted text instantly! 🎊
 
 ## 📸 Screenshot
-![Case Conversion App](https://via.placeholder.com/800x400?text=Case+Conversion+Service)
+![WhatsApp Image 2025-04-02 at 22 03 51_3a9cac0e](https://github.com/user-attachments/assets/066c5f5f-4533-4e43-ac18-89789428f927)
+![WhatsApp Image 2025-04-02 at 22 08 17_a3b84f9f](https://github.com/user-attachments/assets/1afba3d2-ada3-4f08-aee5-557c2f7a30fd)
+![WhatsApp Image 2025-04-02 at 22 08 53_15b74191](https://github.com/user-attachments/assets/be0bedab-a3d2-444f-aa5b-e618f7fa1d31)
 
 ## 🤝 Contributing
 We welcome contributions! If you have suggestions or improvements, feel free to fork the repo and submit a pull request. 💡👨‍💻
